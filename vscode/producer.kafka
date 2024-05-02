@@ -1,0 +1,8 @@
+PRODUCER vscode
+topic: topic-contatos
+{
+    "nomeCompleto": "{{name.firstName}} {{name.lastName}}",
+    "departamento": "{{commerce.department}}",
+    "cidade": "{{address.city}}",
+    "comentario": "{{random.words}}"
+}

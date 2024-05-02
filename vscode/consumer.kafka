@@ -1,0 +1,4 @@
+CONSUMER consumer-group-vscode
+topic: topic-contatos
+partitions: 0
+from: 0
